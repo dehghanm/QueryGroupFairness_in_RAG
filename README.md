@@ -1,5 +1,3 @@
-# Group-Query-Fairness
-
 # Query Group Fairness in RAG
 
 This repository contains the code and datasets for our experiments on **investigating the problem of Group Query Fairness in RAG (Retrieval-Augmented Generation) settings**. 
@@ -56,6 +54,17 @@ python utility_labels/inference.py --model_name llama31-8b --lamp_num 5
 python utility_labels/lamp_eval.py --model_name llama31-8b --lamp_num 5
 ```
 
-There are more parameters, please take a look at the main part of the script to get familiar with all the parameters. 
+Note: There are additional parameters in these scripts. Please review the main part of each script to understand all configurable options.
 
+## Citation
 
+If you use this code or datasets in your research, please cite our ECIR 2026 paper:
+
+```
+@inproceedings{dehghan2026group,
+  title={Who Benefits from RAG? The Role of Exposure, Utility and Attribution Bias},
+  author={Dehghan, [Your First Name] and [Other Authors]},
+  booktitle={Proceedings of the European Conference on Information Retrieval (ECIR)},
+  year={2026}
+}
+```
