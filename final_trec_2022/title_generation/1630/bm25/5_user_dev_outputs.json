@@ -1,0 +1,985 @@
+{
+  "task": "LaMP_5",
+  "golds": [
+    {
+      "id": "1424845",
+      "output": "Russian Knights"
+    },
+    {
+      "id": "1635511",
+      "output": "Cispadane Republic"
+    },
+    {
+      "id": "3125814",
+      "output": "Battle of Issus (194)"
+    },
+    {
+      "id": "4171369",
+      "output": "Ceremonial weapon"
+    },
+    {
+      "id": "352765",
+      "output": "Amago clan"
+    },
+    {
+      "id": "8634765",
+      "output": "Battle of Massawa (1990)"
+    },
+    {
+      "id": "2082487",
+      "output": "Minamoto no Yorimitsu"
+    },
+    {
+      "id": "758589",
+      "output": "Military badges of the United States"
+    },
+    {
+      "id": "3639943",
+      "output": "4th Pennsylvania Regiment"
+    },
+    {
+      "id": "793926",
+      "output": "Coast Guard Arctic Service Medal"
+    },
+    {
+      "id": "1081355",
+      "output": "Morane-Saulnier N"
+    },
+    {
+      "id": "4725407",
+      "output": "Mark 5 nuclear bomb"
+    },
+    {
+      "id": "387038",
+      "output": "Interdictor"
+    },
+    {
+      "id": "5783457",
+      "output": "Georgy Shpagin"
+    },
+    {
+      "id": "7382288",
+      "output": "HMS Darsham (M2619)"
+    },
+    {
+      "id": "1838300",
+      "output": "Fissile Material Cut-off Treaty"
+    },
+    {
+      "id": "20145",
+      "output": "Maroboduus"
+    },
+    {
+      "id": "1184091",
+      "output": "Minotaur-class cruiser"
+    },
+    {
+      "id": "308441",
+      "output": "USS Michigan (SSGN-727)"
+    },
+    {
+      "id": "2658232",
+      "output": "Theodore Schurch"
+    },
+    {
+      "id": "5970152",
+      "output": "Slovenian Navy"
+    },
+    {
+      "id": "2884586",
+      "output": "Theatre ballistic missile"
+    },
+    {
+      "id": "5024646",
+      "output": "Type 3 aircraft machine gun"
+    },
+    {
+      "id": "1211854",
+      "output": "Yaakov Dori"
+    },
+    {
+      "id": "1736269",
+      "output": "USS Snook"
+    },
+    {
+      "id": "5096164",
+      "output": "10th Royal Tank Regiment"
+    },
+    {
+      "id": "1182809",
+      "output": "William Bloomfield"
+    },
+    {
+      "id": "3907724",
+      "output": "The Mushroom Club"
+    },
+    {
+      "id": "7146993",
+      "output": "James Kelsey Cogswell"
+    },
+    {
+      "id": "80052",
+      "output": "Stephen, Count of Blois"
+    },
+    {
+      "id": "8409477",
+      "output": "Kord machine gun"
+    },
+    {
+      "id": "49669",
+      "output": "Groom Lake (salt flat)"
+    },
+    {
+      "id": "468685",
+      "output": "Gnaeus Cornelius Scipio Asina"
+    },
+    {
+      "id": "364546",
+      "output": "Sieges of Stirling Castle"
+    },
+    {
+      "id": "356194",
+      "output": "Siege of Odani Castle"
+    },
+    {
+      "id": "4562115",
+      "output": "Missouri National Guard"
+    },
+    {
+      "id": "148789",
+      "output": "Florianus"
+    },
+    {
+      "id": "763654",
+      "output": "Ernest Gaunt"
+    },
+    {
+      "id": "185966",
+      "output": "Bellum omnium contra omnes"
+    },
+    {
+      "id": "3329154",
+      "output": "Battle of Köse Dağ"
+    },
+    {
+      "id": "6170724",
+      "output": "Iran Kish Air Show"
+    },
+    {
+      "id": "8219779",
+      "output": "Sakai Tadayo"
+    },
+    {
+      "id": "7579839",
+      "output": "Lucius Calpurnius Bibulus"
+    },
+    {
+      "id": "2147120",
+      "output": "Eugen Ott (ambassador)"
+    },
+    {
+      "id": "6196328",
+      "output": "Central China Expeditionary Army"
+    },
+    {
+      "id": "8068836",
+      "output": "Royal Guard of Oman Technical College"
+    },
+    {
+      "id": "392210",
+      "output": "Eighth Route Army"
+    },
+    {
+      "id": "8600611",
+      "output": "Marine Corps Outlying Field Camp Davis"
+    },
+    {
+      "id": "2611519",
+      "output": "Aleida March"
+    },
+    {
+      "id": "2853185",
+      "output": "PTRD-41"
+    },
+    {
+      "id": "4572296",
+      "output": "Naval Service Reserve"
+    },
+    {
+      "id": "291026",
+      "output": "List of battles in the 21st century"
+    },
+    {
+      "id": "6772438",
+      "output": "European Union Military Committee"
+    },
+    {
+      "id": "881245",
+      "output": "Operation Iron Hammer (Iraq 2003)"
+    },
+    {
+      "id": "2091364",
+      "output": "Shaykh Abdur Rahman"
+    },
+    {
+      "id": "5306673",
+      "output": "Caracal Battalion"
+    },
+    {
+      "id": "1711140",
+      "output": "Pentagon Force Protection Agency"
+    },
+    {
+      "id": "1980918",
+      "output": "Battlefield Britain"
+    },
+    {
+      "id": "3299482",
+      "output": "Flyboys: A True Story of Courage"
+    },
+    {
+      "id": "765581",
+      "output": "USS Kidd (DDG-100)"
+    },
+    {
+      "id": "3373496",
+      "output": "Al Muthanna Task Group"
+    },
+    {
+      "id": "57577276",
+      "output": "Chiswell (horse)"
+    },
+    {
+      "id": "36446483",
+      "output": "Fort de Bois-d'Arcy"
+    },
+    {
+      "id": "17527393",
+      "output": "A Time Out of War"
+    },
+    {
+      "id": "15175449",
+      "output": "7th Tactical Aviation Brigade (Ukraine)"
+    },
+    {
+      "id": "10780499",
+      "output": "8th Illinois Infantry Regiment"
+    },
+    {
+      "id": "21613101",
+      "output": "Medzhybizh Fortress"
+    },
+    {
+      "id": "25240261",
+      "output": "Army Cadet College"
+    },
+    {
+      "id": "27047379",
+      "output": "Hajime Toyoshima"
+    },
+    {
+      "id": "25800982",
+      "output": "62nd Virginia Mounted Infantry Regiment"
+    },
+    {
+      "id": "31083241",
+      "output": "Defence diplomacy"
+    },
+    {
+      "id": "9342307",
+      "output": "Dirty Hands (2008 drama film)"
+    },
+    {
+      "id": "22654426",
+      "output": "Mobile Land Mine"
+    },
+    {
+      "id": "11827089",
+      "output": "The Battle of the Milvian Bridge (Giulio Romano)"
+    },
+    {
+      "id": "18130020",
+      "output": "Huang Xianzhong"
+    },
+    {
+      "id": "25389632",
+      "output": "SM U-7 (Germany)"
+    },
+    {
+      "id": "8706744",
+      "output": "Fall of Kismayo"
+    },
+    {
+      "id": "16893086",
+      "output": "Edward W. Heston"
+    },
+    {
+      "id": "28883999",
+      "output": "Walter Ellerton"
+    },
+    {
+      "id": "9990365",
+      "output": "Kyōichi Sawada"
+    },
+    {
+      "id": "12345604",
+      "output": "RPG-6"
+    },
+    {
+      "id": "9465748",
+      "output": "Guillaume de Beaujeu"
+    },
+    {
+      "id": "13558050",
+      "output": "Sang-O-class submarine"
+    },
+    {
+      "id": "20194358",
+      "output": "Sir John Louis, 2nd Baronet"
+    },
+    {
+      "id": "9648387",
+      "output": "HNoMS Svenner (G03)"
+    },
+    {
+      "id": "19660913",
+      "output": "Seizō Yasunori"
+    },
+    {
+      "id": "27888863",
+      "output": "World Military Championships"
+    },
+    {
+      "id": "26343754",
+      "output": "The Final Storm (Shaara novel)"
+    },
+    {
+      "id": "30643724",
+      "output": "No. 290 Squadron RAF"
+    },
+    {
+      "id": "8745619",
+      "output": "Battle of Vedeno"
+    },
+    {
+      "id": "11199039",
+      "output": "Ovida"
+    },
+    {
+      "id": "33340388",
+      "output": "Marine Corps Installations Pacific"
+    },
+    {
+      "id": "20621561",
+      "output": "Ahmad Shah (Taliban)"
+    },
+    {
+      "id": "12407294",
+      "output": "List of equipment of the Turkish Land Forces"
+    },
+    {
+      "id": "24783091",
+      "output": "Supreme Commander of the Unified Armed Forces of the Warsaw Treaty Organization"
+    },
+    {
+      "id": "11625579",
+      "output": "Lenin in 1918"
+    },
+    {
+      "id": "20098361",
+      "output": "General Staff Building (Saint Petersburg)"
+    },
+    {
+      "id": "22438300",
+      "output": "Pen Llystyn"
+    },
+    {
+      "id": "17838402",
+      "output": "Two-Ocean Navy Act"
+    },
+    {
+      "id": "9798472",
+      "output": "Daeso"
+    },
+    {
+      "id": "29372145",
+      "output": "Battle of Zapote Bridge (1897)"
+    },
+    {
+      "id": "24278209",
+      "output": "KD Tunku Abdul Rahman"
+    },
+    {
+      "id": "30683150",
+      "output": "Maria Ursula d'Abreu e Lencastro"
+    },
+    {
+      "id": "27936150",
+      "output": "Six-Day War (2000)"
+    },
+    {
+      "id": "22789996",
+      "output": "Sack of Berwick (1296)"
+    },
+    {
+      "id": "8924609",
+      "output": "Edelweiss Lodge and Resort"
+    },
+    {
+      "id": "19368465",
+      "output": "Oppenheimer (TV series)"
+    },
+    {
+      "id": "15085780",
+      "output": "62nd Army (Soviet Union)"
+    },
+    {
+      "id": "23397764",
+      "output": "War and Peace Revival"
+    },
+    {
+      "id": "9140389",
+      "output": "German-occupied Europe"
+    },
+    {
+      "id": "12847755",
+      "output": "The Wages of Destruction"
+    },
+    {
+      "id": "21327500",
+      "output": "Albania–NATO relations"
+    },
+    {
+      "id": "19044957",
+      "output": "XXX Corps (Pakistan)"
+    },
+    {
+      "id": "25135768",
+      "output": "First Army Division East"
+    },
+    {
+      "id": "17995544",
+      "output": "IAI Searcher"
+    },
+    {
+      "id": "11466337",
+      "output": "2004 Fallujah ambush"
+    },
+    {
+      "id": "20086978",
+      "output": "Military Vehicle Technology Foundation"
+    },
+    {
+      "id": "10473206",
+      "output": "Diehl Defence"
+    },
+    {
+      "id": "17897316",
+      "output": "Operation Desert Shield (Iraq)"
+    },
+    {
+      "id": "11299985",
+      "output": "Chetak"
+    },
+    {
+      "id": "22443646",
+      "output": "Military Administration in Poland"
+    },
+    {
+      "id": "13134210",
+      "output": "Orban"
+    },
+    {
+      "id": "17366912",
+      "output": "Galvarino"
+    },
+    {
+      "id": "17857319",
+      "output": "Skirmish at Bender"
+    },
+    {
+      "id": "41178596",
+      "output": "Augustin D. Flanagan"
+    },
+    {
+      "id": "47531837",
+      "output": "Lou Gardiner"
+    },
+    {
+      "id": "25462124",
+      "output": "Heavy Airlift Wing"
+    },
+    {
+      "id": "25677017",
+      "output": "Melquisedet Angulo Córdova"
+    },
+    {
+      "id": "44037469",
+      "output": "Themba Matanzima"
+    },
+    {
+      "id": "37898739",
+      "output": "USCGC Smilax (WLIC-315)"
+    },
+    {
+      "id": "46978810",
+      "output": "Marcellus Douglass"
+    },
+    {
+      "id": "34592233",
+      "output": "Brazil–United States Treaty"
+    },
+    {
+      "id": "40450218",
+      "output": "Canadian NORAD Region Forward Operating Locations"
+    },
+    {
+      "id": "48513880",
+      "output": "Last Operations Under the Orion"
+    },
+    {
+      "id": "37135130",
+      "output": "Pistoia Brazilian war cemetery"
+    },
+    {
+      "id": "34245545",
+      "output": "List of equipment of the Vietnam People's Ground Forces"
+    },
+    {
+      "id": "50153114",
+      "output": "Battle of Tepatitlán"
+    },
+    {
+      "id": "48722101",
+      "output": "In the Land O' Yamo Yamo"
+    },
+    {
+      "id": "36971010",
+      "output": "Marmaris Castle"
+    },
+    {
+      "id": "41609569",
+      "output": "Headquarters Joint Forces New Zealand"
+    },
+    {
+      "id": "40189494",
+      "output": "August 2013 Quetta bombing"
+    },
+    {
+      "id": "39531468",
+      "output": "Litopys UPA"
+    },
+    {
+      "id": "36723831",
+      "output": "Fittipaldi machine gun"
+    },
+    {
+      "id": "42361931",
+      "output": "John David McAdoo"
+    },
+    {
+      "id": "37131963",
+      "output": "Konrad Kolšek"
+    },
+    {
+      "id": "49544852",
+      "output": "German submarine U-747"
+    },
+    {
+      "id": "42882989",
+      "output": "Type 595 ocean surveillance ship"
+    },
+    {
+      "id": "35944940",
+      "output": "Qing-class submarine"
+    },
+    {
+      "id": "48927148",
+      "output": "Russo-Serbian Alliance (1807)"
+    },
+    {
+      "id": "50660806",
+      "output": "Eastney Barracks"
+    },
+    {
+      "id": "43156336",
+      "output": "Woodworth Personal Data Sheet"
+    },
+    {
+      "id": "49709450",
+      "output": "USS Fort Lauderdale"
+    },
+    {
+      "id": "47132134",
+      "output": "Siege of Bridgeport"
+    },
+    {
+      "id": "41580224",
+      "output": "AN/PRC-113"
+    },
+    {
+      "id": "34305685",
+      "output": "Karuta (armour)"
+    },
+    {
+      "id": "38988819",
+      "output": "Battle of Tabaruzaka"
+    },
+    {
+      "id": "37602440",
+      "output": "All In: The Education of General David Petraeus"
+    },
+    {
+      "id": "51556214",
+      "output": "Swedish Armed Forces Basic Training Medal"
+    },
+    {
+      "id": "39482660",
+      "output": "Ballomar"
+    },
+    {
+      "id": "44301313",
+      "output": "Lange Max Museum"
+    },
+    {
+      "id": "36628410",
+      "output": "Omega Aerial Refueling Services"
+    },
+    {
+      "id": "45671774",
+      "output": "1PN58"
+    },
+    {
+      "id": "50945714",
+      "output": "Under the Double Eagle"
+    },
+    {
+      "id": "49998461",
+      "output": "Inherent Resolve Campaign Medal"
+    },
+    {
+      "id": "52308230",
+      "output": "Totokia"
+    },
+    {
+      "id": "51723838",
+      "output": "Einar Vihma"
+    },
+    {
+      "id": "35882506",
+      "output": "Supercavitating torpedo"
+    },
+    {
+      "id": "39855840",
+      "output": "TsKIB SOO"
+    },
+    {
+      "id": "41577685",
+      "output": "Ba'ath Brigades"
+    },
+    {
+      "id": "51396743",
+      "output": "Commandant of the National Defence Academy"
+    },
+    {
+      "id": "44632586",
+      "output": "U.S. Naval Information Forces"
+    },
+    {
+      "id": "47083707",
+      "output": "9K333 Verba"
+    },
+    {
+      "id": "41968585",
+      "output": "RDS-3"
+    },
+    {
+      "id": "46531699",
+      "output": "International Bomber Command Centre"
+    },
+    {
+      "id": "36307532",
+      "output": "List of wars involving Saudi Arabia"
+    },
+    {
+      "id": "39807819",
+      "output": "Registered Cossacks of the Russian Federation"
+    },
+    {
+      "id": "38264234",
+      "output": "European Union Training Mission in Mali"
+    },
+    {
+      "id": "51109302",
+      "output": "Shuliang He"
+    },
+    {
+      "id": "43091622",
+      "output": "The Squeaky Wheel"
+    },
+    {
+      "id": "43390495",
+      "output": "Far from Men"
+    },
+    {
+      "id": "37934355",
+      "output": "Elsa Ehrich"
+    },
+    {
+      "id": "49049283",
+      "output": "Crete Naval Base"
+    },
+    {
+      "id": "41386653",
+      "output": "Siege of Caizhou"
+    },
+    {
+      "id": "40005896",
+      "output": "Jewish–Babylonian war"
+    },
+    {
+      "id": "49842103",
+      "output": "Operation Black Swan"
+    },
+    {
+      "id": "49307554",
+      "output": "Western Theater Command"
+    },
+    {
+      "id": "51305327",
+      "output": "18th Guards Motor Rifle Brigade"
+    },
+    {
+      "id": "62738560",
+      "output": "Südwall"
+    },
+    {
+      "id": "69582942",
+      "output": "Bertrand de La Chesnais"
+    },
+    {
+      "id": "66067110",
+      "output": "German ship Augsburg"
+    },
+    {
+      "id": "65715885",
+      "output": "9th Greek Regiment"
+    },
+    {
+      "id": "60072180",
+      "output": "Bengal War"
+    },
+    {
+      "id": "66010067",
+      "output": "Narva Bastions"
+    },
+    {
+      "id": "59272457",
+      "output": "Elizabeth L. Gardner"
+    },
+    {
+      "id": "66170776",
+      "output": "James F. McCall"
+    },
+    {
+      "id": "55118668",
+      "output": "Nathan Bedford Forrest Monument (Memphis, Tennessee)"
+    },
+    {
+      "id": "58612143",
+      "output": "Ukrainian frigate Mykolaiv"
+    },
+    {
+      "id": "61294603",
+      "output": "William Henry Seymour"
+    },
+    {
+      "id": "69138439",
+      "output": "Maciej Hunia"
+    },
+    {
+      "id": "55466563",
+      "output": "Michele Carrascosa"
+    },
+    {
+      "id": "53079779",
+      "output": "Dmitry Zuyev"
+    },
+    {
+      "id": "67547974",
+      "output": "Frank M. Whitman"
+    },
+    {
+      "id": "67675757",
+      "output": "Next Generation Air Dominance"
+    },
+    {
+      "id": "55356073",
+      "output": "Military ranks of Montenegro"
+    },
+    {
+      "id": "61126082",
+      "output": "Wehrmachthelferin"
+    },
+    {
+      "id": "66988845",
+      "output": "Pindad Badak"
+    },
+    {
+      "id": "62864518",
+      "output": "2020 Afgooye bombing"
+    },
+    {
+      "id": "54282008",
+      "output": "Pz. Sfl. IVc."
+    },
+    {
+      "id": "53990551",
+      "output": "Comparative air force officer ranks of Africa"
+    },
+    {
+      "id": "64065121",
+      "output": "Integrated Head Protection System"
+    },
+    {
+      "id": "58699235",
+      "output": "Ji Xingwen"
+    },
+    {
+      "id": "61764387",
+      "output": "Kony: Order from Above"
+    },
+    {
+      "id": "67901559",
+      "output": "Western Military Region (Sweden)"
+    },
+    {
+      "id": "52839191",
+      "output": "Robert S. Beightler Jr."
+    },
+    {
+      "id": "61264142",
+      "output": "Internal Troops of Mongolia"
+    },
+    {
+      "id": "53945817",
+      "output": "Vasily Boldyrev"
+    },
+    {
+      "id": "63979454",
+      "output": "AGM-183 ARRW"
+    },
+    {
+      "id": "52852632",
+      "output": "January 2017 Azaz bombing"
+    },
+    {
+      "id": "61786542",
+      "output": "The Cave (2019 Syrian film)"
+    },
+    {
+      "id": "60593784",
+      "output": "Martyr Nubar Ozanyan Brigade"
+    },
+    {
+      "id": "55249557",
+      "output": "Kyrgyz Air Force"
+    },
+    {
+      "id": "54216488",
+      "output": "Charlie Wilson's War: The Extraordinary Story of the Largest Covert Operation in History"
+    },
+    {
+      "id": "68955172",
+      "output": "2021 Menzelinsk parachute Let L-410UVP-E crash"
+    },
+    {
+      "id": "62795711",
+      "output": "Thomas Süssli"
+    },
+    {
+      "id": "53014646",
+      "output": "TAI T625 Gökbey"
+    },
+    {
+      "id": "64234525",
+      "output": "Sobibor perpetrator album"
+    },
+    {
+      "id": "65527691",
+      "output": "Ataul Hakim Sarwar Hasan"
+    },
+    {
+      "id": "64562495",
+      "output": "Andrei Snesarev"
+    },
+    {
+      "id": "53445450",
+      "output": "Murchad mac Briain"
+    },
+    {
+      "id": "60425220",
+      "output": "Ramzan Akhmadov"
+    },
+    {
+      "id": "55233749",
+      "output": "Battle of Amritsar (1757)"
+    },
+    {
+      "id": "67965293",
+      "output": "Hadji-Dawud"
+    },
+    {
+      "id": "56548409",
+      "output": "John C. Aquilino"
+    },
+    {
+      "id": "68214378",
+      "output": "Larry Vickers"
+    },
+    {
+      "id": "57276639",
+      "output": "The Scorpion King (film series)"
+    },
+    {
+      "id": "54024736",
+      "output": "Ummer Fayaz"
+    },
+    {
+      "id": "59133594",
+      "output": "Siege of Canterbury"
+    },
+    {
+      "id": "67923447",
+      "output": "Carlos Del Toro"
+    },
+    {
+      "id": "56008954",
+      "output": "Kazakh Naval Forces"
+    },
+    {
+      "id": "67423253",
+      "output": "Houston Tumlin"
+    },
+    {
+      "id": "67491308",
+      "output": "Surat Singh"
+    },
+    {
+      "id": "64961698",
+      "output": "Execution of Torrijos and his Companions on the Beach at Málaga"
+    },
+    {
+      "id": "65677592",
+      "output": "Serhiy Korniychuk"
+    },
+    {
+      "id": "59069789",
+      "output": "Mrs Wilson (TV series)"
+    },
+    {
+      "id": "63698115",
+      "output": "CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties"
+    }
+  ]
+}

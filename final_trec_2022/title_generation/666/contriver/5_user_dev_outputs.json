@@ -1,0 +1,641 @@
+{
+  "task": "LaMP_5",
+  "golds": [
+    {
+      "id": "131359",
+      "output": "Douglass Township, Berks County, Pennsylvania"
+    },
+    {
+      "id": "156825",
+      "output": "Balen"
+    },
+    {
+      "id": "133471",
+      "output": "Forks Township, Northampton County, Pennsylvania"
+    },
+    {
+      "id": "4263502",
+      "output": "Monte Grande"
+    },
+    {
+      "id": "118096",
+      "output": "Sherman Township, Mason County, Michigan"
+    },
+    {
+      "id": "260950",
+      "output": "List of cities in the Philippines"
+    },
+    {
+      "id": "1531468",
+      "output": "Tayshet"
+    },
+    {
+      "id": "2706590",
+      "output": "Manjacaze"
+    },
+    {
+      "id": "1668439",
+      "output": "Shivpuri"
+    },
+    {
+      "id": "54159",
+      "output": "Belmont, New York"
+    },
+    {
+      "id": "2051294",
+      "output": "Himamaylan"
+    },
+    {
+      "id": "2158817",
+      "output": "Abakaliki"
+    },
+    {
+      "id": "119073",
+      "output": "Burns Township, Michigan"
+    },
+    {
+      "id": "493552",
+      "output": "Benoni, Gauteng"
+    },
+    {
+      "id": "3593767",
+      "output": "Proddatur"
+    },
+    {
+      "id": "52026056",
+      "output": "Korres, Álava"
+    },
+    {
+      "id": "2173945",
+      "output": "Sahiwal"
+    },
+    {
+      "id": "544770",
+      "output": "Rapla"
+    },
+    {
+      "id": "122215",
+      "output": "Sallis, Mississippi"
+    },
+    {
+      "id": "3060759",
+      "output": "Charter city"
+    },
+    {
+      "id": "328636",
+      "output": "Gosen, Niigata"
+    },
+    {
+      "id": "6515609",
+      "output": "Urupês"
+    },
+    {
+      "id": "127705",
+      "output": "Northwest, North Carolina"
+    },
+    {
+      "id": "5227885",
+      "output": "Medvezhyegorsk"
+    },
+    {
+      "id": "7897682",
+      "output": "San Pietro a Patierno"
+    },
+    {
+      "id": "329704",
+      "output": "Kokubunji, Tokyo"
+    },
+    {
+      "id": "115401",
+      "output": "Buckhorn, Kentucky"
+    },
+    {
+      "id": "4998323",
+      "output": "Folden"
+    },
+    {
+      "id": "1342072",
+      "output": "King Edward Point"
+    },
+    {
+      "id": "131926",
+      "output": "Madison Township, Clarion County, Pennsylvania"
+    },
+    {
+      "id": "5465886",
+      "output": "Güines"
+    },
+    {
+      "id": "2452038",
+      "output": "Alipurduar"
+    },
+    {
+      "id": "996747",
+      "output": "Aparecida"
+    },
+    {
+      "id": "145195",
+      "output": "Sandringham, Norfolk"
+    },
+    {
+      "id": "878772",
+      "output": "Takahata, Yamagata"
+    },
+    {
+      "id": "3031207",
+      "output": "Almetyevsk"
+    },
+    {
+      "id": "1502610",
+      "output": "Minamiechizen, Fukui"
+    },
+    {
+      "id": "3906653",
+      "output": "Neryungri"
+    },
+    {
+      "id": "5361201",
+      "output": "Tsukubamirai, Ibaraki"
+    },
+    {
+      "id": "874320",
+      "output": "Hokota, Ibaraki"
+    },
+    {
+      "id": "1585609",
+      "output": "Special cities of Japan"
+    },
+    {
+      "id": "121091",
+      "output": "Alkemade"
+    },
+    {
+      "id": "178184",
+      "output": "Subotica"
+    },
+    {
+      "id": "1433480",
+      "output": "Mineralnye Vody"
+    },
+    {
+      "id": "6390902",
+      "output": "Kiso, Nagano (town)"
+    },
+    {
+      "id": "155791",
+      "output": "Halifax County, Nova Scotia"
+    },
+    {
+      "id": "3583093",
+      "output": "Le Chesnay"
+    },
+    {
+      "id": "482088",
+      "output": "Tokyo City"
+    },
+    {
+      "id": "329207",
+      "output": "Ibaraki, Osaka"
+    },
+    {
+      "id": "5852070",
+      "output": "Mirny, Sakha Republic"
+    },
+    {
+      "id": "2126574",
+      "output": "Tabuk, Kalinga"
+    },
+    {
+      "id": "53144919",
+      "output": "List of municipal corporations in Uttarakhand"
+    },
+    {
+      "id": "742159",
+      "output": "Kingstown"
+    },
+    {
+      "id": "1020493",
+      "output": "Mogi das Cruzes"
+    },
+    {
+      "id": "3781695",
+      "output": "Dzaoudzi"
+    },
+    {
+      "id": "5182636",
+      "output": "Nangal"
+    },
+    {
+      "id": "8687192",
+      "output": "Dikson (urban-type settlement)"
+    },
+    {
+      "id": "20988150",
+      "output": "Piskory"
+    },
+    {
+      "id": "9057068",
+      "output": "Tomkins Cove, New York"
+    },
+    {
+      "id": "25905749",
+      "output": "Mijas Pueblo"
+    },
+    {
+      "id": "25700034",
+      "output": "Peel en Maas"
+    },
+    {
+      "id": "13845412",
+      "output": "Spała"
+    },
+    {
+      "id": "24218251",
+      "output": "List of cities in Iran by province"
+    },
+    {
+      "id": "15875896",
+      "output": "Hooker Township, Dixon County, Nebraska"
+    },
+    {
+      "id": "16489766",
+      "output": "Cities of East Asia"
+    },
+    {
+      "id": "9338700",
+      "output": "Sandpoint station"
+    },
+    {
+      "id": "8967391",
+      "output": "Labytnangi"
+    },
+    {
+      "id": "19005332",
+      "output": "Brużyczka Mała"
+    },
+    {
+      "id": "9217029",
+      "output": "Kilcummin, County Mayo"
+    },
+    {
+      "id": "25468664",
+      "output": "Acajutiba"
+    },
+    {
+      "id": "10408398",
+      "output": "Bois D'Arc Township, Montgomery County, Illinois"
+    },
+    {
+      "id": "28958749",
+      "output": "Kromy, Oryol Oblast"
+    },
+    {
+      "id": "15497520",
+      "output": "Pokhvistnevo, Samara Oblast"
+    },
+    {
+      "id": "25063357",
+      "output": "Fugging, Lower Austria"
+    },
+    {
+      "id": "9615934",
+      "output": "Morozovsk"
+    },
+    {
+      "id": "15519199",
+      "output": "Texcaltitlán"
+    },
+    {
+      "id": "11083040",
+      "output": "Pinsoro"
+    },
+    {
+      "id": "8960830",
+      "output": "Sarandí, Buenos Aires"
+    },
+    {
+      "id": "21438399",
+      "output": "Jijoca de Jericoacoara"
+    },
+    {
+      "id": "21284653",
+      "output": "List of cities in Ontario"
+    },
+    {
+      "id": "28862711",
+      "output": "Santpedor"
+    },
+    {
+      "id": "9081989",
+      "output": "South Ross Township, Vermilion County, Illinois"
+    },
+    {
+      "id": "15231621",
+      "output": "Global Financial Centres Index"
+    },
+    {
+      "id": "11285259",
+      "output": "Batié, Cameroon"
+    },
+    {
+      "id": "9263509",
+      "output": "Ashiya, Hyōgo"
+    },
+    {
+      "id": "20145963",
+      "output": "Degollado"
+    },
+    {
+      "id": "11553014",
+      "output": "Miyawaka"
+    },
+    {
+      "id": "13756064",
+      "output": "Chikuhoku"
+    },
+    {
+      "id": "25796873",
+      "output": "Hohe Börde"
+    },
+    {
+      "id": "12348156",
+      "output": "Harsefeld (Samtgemeinde)"
+    },
+    {
+      "id": "13699860",
+      "output": "Sakuho, Nagano"
+    },
+    {
+      "id": "12206455",
+      "output": "Bitterfeld-Wolfen"
+    },
+    {
+      "id": "20737846",
+      "output": "Ivittuut"
+    },
+    {
+      "id": "12958666",
+      "output": "Talnakh"
+    },
+    {
+      "id": "13509968",
+      "output": "Nordvik, Russia"
+    },
+    {
+      "id": "14092072",
+      "output": "Ojinaga"
+    },
+    {
+      "id": "15311067",
+      "output": "Florencio Varela, Buenos Aires"
+    },
+    {
+      "id": "17579837",
+      "output": "Castellfollit de la Roca"
+    },
+    {
+      "id": "20982957",
+      "output": "Capitol Hill, Saipan"
+    },
+    {
+      "id": "25072456",
+      "output": "Geestland"
+    },
+    {
+      "id": "39779144",
+      "output": "Korizagheh"
+    },
+    {
+      "id": "39667075",
+      "output": "Baba Zeyd, Kermanshah"
+    },
+    {
+      "id": "41293650",
+      "output": "Qarah Bolagh-e Khan"
+    },
+    {
+      "id": "49457520",
+      "output": "16th district of Budapest"
+    },
+    {
+      "id": "36130011",
+      "output": "Sefid Cheshmeh"
+    },
+    {
+      "id": "52198974",
+      "output": "List of settlements in West Midlands (county) by population"
+    },
+    {
+      "id": "41202472",
+      "output": "Indian Lake Estates, Florida"
+    },
+    {
+      "id": "52511918",
+      "output": "Vigmostad (municipality)"
+    },
+    {
+      "id": "45633559",
+      "output": "Nayagaon, Punjab"
+    },
+    {
+      "id": "40034764",
+      "output": "El Shorouk"
+    },
+    {
+      "id": "45141318",
+      "output": "Dunaiv"
+    },
+    {
+      "id": "47938212",
+      "output": "Taylor Camp"
+    },
+    {
+      "id": "40272348",
+      "output": "Sandia Park, New Mexico"
+    },
+    {
+      "id": "36960290",
+      "output": "Jangada, Mato Grosso"
+    },
+    {
+      "id": "40132760",
+      "output": "Brady, Montana"
+    },
+    {
+      "id": "35849688",
+      "output": "List of European cities by population within city limits"
+    },
+    {
+      "id": "38050247",
+      "output": "Mansfield Road Baptist Church"
+    },
+    {
+      "id": "38854345",
+      "output": "Spokane–Coeur d'Alene combined statistical area"
+    },
+    {
+      "id": "52203287",
+      "output": "Amargarh, Punjab"
+    },
+    {
+      "id": "37209888",
+      "output": "Wabe-Schunter-Beberbach"
+    },
+    {
+      "id": "49070718",
+      "output": "Carbon Neutral Cities Alliance"
+    },
+    {
+      "id": "39617001",
+      "output": "Efeler"
+    },
+    {
+      "id": "50275712",
+      "output": "Wassertorplatz"
+    },
+    {
+      "id": "37875404",
+      "output": "List of cities in New Brunswick"
+    },
+    {
+      "id": "38103728",
+      "output": "Molenwaard"
+    },
+    {
+      "id": "38262923",
+      "output": "Kursavka"
+    },
+    {
+      "id": "48479520",
+      "output": "Várkerület"
+    },
+    {
+      "id": "38824275",
+      "output": "Balta, Ukraine"
+    },
+    {
+      "id": "40402709",
+      "output": "Roossenekal"
+    },
+    {
+      "id": "40735158",
+      "output": "Centenary City"
+    },
+    {
+      "id": "40797848",
+      "output": "Tianducheng"
+    },
+    {
+      "id": "42103537",
+      "output": "Jessore"
+    },
+    {
+      "id": "48479024",
+      "output": "Belváros-Lipótváros"
+    },
+    {
+      "id": "59825073",
+      "output": "Pardossi"
+    },
+    {
+      "id": "60074952",
+      "output": "Corycus (Crete)"
+    },
+    {
+      "id": "61275576",
+      "output": "Il Colle-Villa"
+    },
+    {
+      "id": "57960301",
+      "output": "Tuskeego, Iowa"
+    },
+    {
+      "id": "68322343",
+      "output": "Neighborhoods in Cleveland"
+    },
+    {
+      "id": "52806109",
+      "output": "Tri-Cities metropolitan area"
+    },
+    {
+      "id": "52894828",
+      "output": "Bayou Blue, Louisiana"
+    },
+    {
+      "id": "66188893",
+      "output": "Brovst Municipality"
+    },
+    {
+      "id": "52927881",
+      "output": "Helsinki urban area"
+    },
+    {
+      "id": "54191339",
+      "output": "Kemperplatz"
+    },
+    {
+      "id": "65333993",
+      "output": "Name of Kyiv"
+    },
+    {
+      "id": "53335442",
+      "output": "Les Monts d'Aunay"
+    },
+    {
+      "id": "53522583",
+      "output": "Almirante District"
+    },
+    {
+      "id": "61524289",
+      "output": "Psibela"
+    },
+    {
+      "id": "61316782",
+      "output": "Stectorium"
+    },
+    {
+      "id": "65740356",
+      "output": "El Parral, Chiapas"
+    },
+    {
+      "id": "56722520",
+      "output": "Naranjal, Veracruz"
+    },
+    {
+      "id": "61523153",
+      "output": "Tirupathur district"
+    },
+    {
+      "id": "54131482",
+      "output": "Serdivan"
+    },
+    {
+      "id": "65561349",
+      "output": "World Cities Day"
+    },
+    {
+      "id": "54848517",
+      "output": "Koror City"
+    },
+    {
+      "id": "56816671",
+      "output": "Spokane Bridge, Washington"
+    },
+    {
+      "id": "69346873",
+      "output": "Bhararisain"
+    },
+    {
+      "id": "55790183",
+      "output": "Palm Tree, New York"
+    },
+    {
+      "id": "57024716",
+      "output": "Gritsovsky"
+    },
+    {
+      "id": "56734516",
+      "output": "Citlaltépetl, Veracruz"
+    }
+  ]
+}

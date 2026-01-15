@@ -1,0 +1,581 @@
+{
+  "task": "LaMP_5",
+  "golds": [
+    {
+      "id": "1752311",
+      "output": "Cowichan Lake"
+    },
+    {
+      "id": "1594259",
+      "output": "Cape Trafalgar"
+    },
+    {
+      "id": "2657708",
+      "output": "Gamprin"
+    },
+    {
+      "id": "56701",
+      "output": "Geography of Malta"
+    },
+    {
+      "id": "6135022",
+      "output": "Croxton, Jersey City"
+    },
+    {
+      "id": "1947086",
+      "output": "Eastern Canada"
+    },
+    {
+      "id": "724506",
+      "output": "List of administrative divisions of Taiwan"
+    },
+    {
+      "id": "4846076",
+      "output": "Southwest China"
+    },
+    {
+      "id": "588981",
+      "output": "Provinces of Bulgaria"
+    },
+    {
+      "id": "460902",
+      "output": "South Aegean"
+    },
+    {
+      "id": "4346338",
+      "output": "Kipling, Saskatchewan"
+    },
+    {
+      "id": "86872",
+      "output": "Marne (department)"
+    },
+    {
+      "id": "4474226",
+      "output": "Hajji Baba"
+    },
+    {
+      "id": "1139674",
+      "output": "Lisenser Fernerkogel"
+    },
+    {
+      "id": "6656477",
+      "output": "Central Russian Upland"
+    },
+    {
+      "id": "690557",
+      "output": "Eldgjá"
+    },
+    {
+      "id": "506349",
+      "output": "Piz Buin"
+    },
+    {
+      "id": "715914",
+      "output": "Kaohsiung County"
+    },
+    {
+      "id": "4206474",
+      "output": "Call Lake Provincial Park"
+    },
+    {
+      "id": "7701761",
+      "output": "The Pyramid (British Columbia)"
+    },
+    {
+      "id": "2307703",
+      "output": "Rethymno (regional unit)"
+    },
+    {
+      "id": "950891",
+      "output": "Sanchong District"
+    },
+    {
+      "id": "2397932",
+      "output": "Sandakan Division"
+    },
+    {
+      "id": "5019081",
+      "output": "Bagan Datuk (town)"
+    },
+    {
+      "id": "2298723",
+      "output": "William Gordon East"
+    },
+    {
+      "id": "1383391",
+      "output": "Deux-Nèthes"
+    },
+    {
+      "id": "569140",
+      "output": "Ömnögovi Province"
+    },
+    {
+      "id": "461032",
+      "output": "Argolis"
+    },
+    {
+      "id": "7761657",
+      "output": "Krasnogvardeyskoye, Republic of Adygea"
+    },
+    {
+      "id": "62636941",
+      "output": "List of villages in Akwa Ibom State"
+    },
+    {
+      "id": "791181",
+      "output": "Govisümber Province"
+    },
+    {
+      "id": "589047",
+      "output": "Lovech Province"
+    },
+    {
+      "id": "2119302",
+      "output": "Rodrigo de Triana"
+    },
+    {
+      "id": "7898941",
+      "output": "Tichý Potok"
+    },
+    {
+      "id": "791153",
+      "output": "Darkhan-Uul Province"
+    },
+    {
+      "id": "8318491",
+      "output": "Southeastern Anatolia Region"
+    },
+    {
+      "id": "2419729",
+      "output": "Anija Parish"
+    },
+    {
+      "id": "8318223",
+      "output": "Aegean Region"
+    },
+    {
+      "id": "1323117",
+      "output": "Wilhelm Jordan (geodesist)"
+    },
+    {
+      "id": "1383392",
+      "output": "Meuse-Inférieure"
+    },
+    {
+      "id": "3941690",
+      "output": "Nozhay-Yurtovsky District"
+    },
+    {
+      "id": "2222461",
+      "output": "Janakpur Zone"
+    },
+    {
+      "id": "2445711",
+      "output": "Corfu (regional unit)"
+    },
+    {
+      "id": "7350274",
+      "output": "Sarayan County"
+    },
+    {
+      "id": "2419731",
+      "output": "Keila Parish"
+    },
+    {
+      "id": "3175778",
+      "output": "Puurmani Parish"
+    },
+    {
+      "id": "21424597",
+      "output": "136th meridian west"
+    },
+    {
+      "id": "32876385",
+      "output": "Taqi Dizaj"
+    },
+    {
+      "id": "12783597",
+      "output": "DORIS (satellite system)"
+    },
+    {
+      "id": "28469555",
+      "output": "List of mountain ranges of New Mexico"
+    },
+    {
+      "id": "20690689",
+      "output": "Mesquite Hills"
+    },
+    {
+      "id": "32659436",
+      "output": "Frolovsky District"
+    },
+    {
+      "id": "12367938",
+      "output": "Fraser Plateau and Basin complex"
+    },
+    {
+      "id": "18180717",
+      "output": "40th parallel south"
+    },
+    {
+      "id": "22769850",
+      "output": "List of ghost towns in Alabama"
+    },
+    {
+      "id": "11890091",
+      "output": "White Tank Mountains"
+    },
+    {
+      "id": "14518938",
+      "output": "Eastern Bosphorus"
+    },
+    {
+      "id": "24285393",
+      "output": "List of elevation extremes by country"
+    },
+    {
+      "id": "23398599",
+      "output": "Submerged continent"
+    },
+    {
+      "id": "24688126",
+      "output": "Thomas-Fortin Ecological Reserve"
+    },
+    {
+      "id": "13872613",
+      "output": "Richard Norwood"
+    },
+    {
+      "id": "10420454",
+      "output": "The Geographical Journal"
+    },
+    {
+      "id": "30232307",
+      "output": "Harran in the Bible"
+    },
+    {
+      "id": "24664395",
+      "output": "Charles-B.-Banville Ecological Reserve"
+    },
+    {
+      "id": "10271212",
+      "output": "Borders of Poland"
+    },
+    {
+      "id": "10339070",
+      "output": "Bernard J. S. Cahill"
+    },
+    {
+      "id": "11777222",
+      "output": "Hanover Island"
+    },
+    {
+      "id": "31080414",
+      "output": "Kalymnos (regional unit)"
+    },
+    {
+      "id": "10843017",
+      "output": "Ignacy Zaborowski"
+    },
+    {
+      "id": "16988490",
+      "output": "Otter Creek Wilderness"
+    },
+    {
+      "id": "33399055",
+      "output": "Dehdez District"
+    },
+    {
+      "id": "11373339",
+      "output": "Central Greece (region)"
+    },
+    {
+      "id": "26424028",
+      "output": "Torqabeh and Shandiz County"
+    },
+    {
+      "id": "20738533",
+      "output": "Qaanaaq Municipality"
+    },
+    {
+      "id": "15430027",
+      "output": "Élan, Ardennes"
+    },
+    {
+      "id": "30724463",
+      "output": "South Athens (regional unit)"
+    },
+    {
+      "id": "13697365",
+      "output": "Arangeh"
+    },
+    {
+      "id": "18183042",
+      "output": "Georg Braun"
+    },
+    {
+      "id": "15131800",
+      "output": "Vautrin Lud Prize"
+    },
+    {
+      "id": "15459948",
+      "output": "Movile Cave"
+    },
+    {
+      "id": "17839068",
+      "output": "Husby, Stockholm"
+    },
+    {
+      "id": "26130579",
+      "output": "Moldova–Romania border"
+    },
+    {
+      "id": "27509810",
+      "output": "State of Hanover"
+    },
+    {
+      "id": "23179157",
+      "output": "Capitulations of Santa Fe"
+    },
+    {
+      "id": "29385787",
+      "output": "Bhawana"
+    },
+    {
+      "id": "30724414",
+      "output": "North Athens (regional unit)"
+    },
+    {
+      "id": "38445554",
+      "output": "Qanqanlu"
+    },
+    {
+      "id": "34402278",
+      "output": "Kahriz, Khorramabad"
+    },
+    {
+      "id": "37009944",
+      "output": "Chareh, Khuzestan"
+    },
+    {
+      "id": "37581793",
+      "output": "Tang-e Nakhl"
+    },
+    {
+      "id": "42505529",
+      "output": "List of Iron Age states"
+    },
+    {
+      "id": "36426167",
+      "output": "List of valleys in Pakistan"
+    },
+    {
+      "id": "35016834",
+      "output": "Buranovo, Udmurt Republic"
+    },
+    {
+      "id": "40348354",
+      "output": "Journal of Transport Geography"
+    },
+    {
+      "id": "34936718",
+      "output": "Outer Schwyz"
+    },
+    {
+      "id": "39416963",
+      "output": "Brian Lees (geographer)"
+    },
+    {
+      "id": "39926611",
+      "output": "Kakan Rural District"
+    },
+    {
+      "id": "47642505",
+      "output": "Livingstone Medal"
+    },
+    {
+      "id": "40349320",
+      "output": "Tràng An Scenic Landscape Complex"
+    },
+    {
+      "id": "45073672",
+      "output": "Cape Angela"
+    },
+    {
+      "id": "49438140",
+      "output": "Immigration to Russia"
+    },
+    {
+      "id": "36855788",
+      "output": "Halehsam"
+    },
+    {
+      "id": "48251894",
+      "output": "Karl Weule"
+    },
+    {
+      "id": "37423534",
+      "output": "Naseri Rural District"
+    },
+    {
+      "id": "51999816",
+      "output": "Tatabánya District"
+    },
+    {
+      "id": "44383513",
+      "output": "Currency Creek wine region"
+    },
+    {
+      "id": "50734381",
+      "output": "Batagaika crater"
+    },
+    {
+      "id": "44956057",
+      "output": "Tainan Prefecture (Qing dynasty)"
+    },
+    {
+      "id": "37504906",
+      "output": "GFZ German Research Centre for Geosciences"
+    },
+    {
+      "id": "41754885",
+      "output": "Zec de la Bessonne"
+    },
+    {
+      "id": "47329029",
+      "output": "France–Italy border"
+    },
+    {
+      "id": "39629790",
+      "output": "Natural Earth projection"
+    },
+    {
+      "id": "51807646",
+      "output": "Peninsula"
+    },
+    {
+      "id": "41008669",
+      "output": "Denmark Strait cataract"
+    },
+    {
+      "id": "41575400",
+      "output": "Southeast Africa"
+    },
+    {
+      "id": "51563568",
+      "output": "List of countries by population in 1000"
+    },
+    {
+      "id": "63323811",
+      "output": "Plemyannikovo"
+    },
+    {
+      "id": "60161587",
+      "output": "Aktyube, Astrakhan Oblast"
+    },
+    {
+      "id": "61047130",
+      "output": "Kamenka, Bizhbulyaksky District, Republic of Bashkortostan"
+    },
+    {
+      "id": "63279467",
+      "output": "Ushakovo, Kichmengsko-Gorodetsky District, Vologda Oblast"
+    },
+    {
+      "id": "60335405",
+      "output": "Wooded Carpathians"
+    },
+    {
+      "id": "60284014",
+      "output": "Eastern Beskids"
+    },
+    {
+      "id": "58940136",
+      "output": "MOL Campus"
+    },
+    {
+      "id": "55988396",
+      "output": "Demographics of the British Empire"
+    },
+    {
+      "id": "64210992",
+      "output": "Staraya Melovaya"
+    },
+    {
+      "id": "61227270",
+      "output": "Karazirikovo"
+    },
+    {
+      "id": "59674087",
+      "output": "Avnyugsky"
+    },
+    {
+      "id": "67061821",
+      "output": "Pühajärve Parish"
+    },
+    {
+      "id": "53921191",
+      "output": "Usuluk Bay Nature Park"
+    },
+    {
+      "id": "53251123",
+      "output": "South South"
+    },
+    {
+      "id": "59898886",
+      "output": "Kulikovo, Arkhangelsk Oblast"
+    },
+    {
+      "id": "66484926",
+      "output": "Montagne-du-Diable Regional Park"
+    },
+    {
+      "id": "64780734",
+      "output": "Conundrum Hot Springs"
+    },
+    {
+      "id": "62636958",
+      "output": "List of villages in Anambra State"
+    },
+    {
+      "id": "59191454",
+      "output": "Greater Vienna"
+    },
+    {
+      "id": "63291071",
+      "output": "Sara Irina Fabrikant"
+    },
+    {
+      "id": "63591315",
+      "output": "Kotovo, Cherepovetsky District, Vologda Oblast"
+    },
+    {
+      "id": "62523416",
+      "output": "Central Yakutian Lowland"
+    },
+    {
+      "id": "61741659",
+      "output": "Barsuanbashevo"
+    },
+    {
+      "id": "69891764",
+      "output": "Sri Balaji district"
+    },
+    {
+      "id": "58246920",
+      "output": "Equal Earth projection"
+    },
+    {
+      "id": "58277581",
+      "output": "Austria–Italy border"
+    },
+    {
+      "id": "58465609",
+      "output": "Natyrbovo"
+    },
+    {
+      "id": "59328261",
+      "output": "Koldihwa"
+    }
+  ]
+}

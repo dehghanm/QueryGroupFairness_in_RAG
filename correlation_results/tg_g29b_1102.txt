@@ -1,0 +1,127 @@
+Query topic: ['1102']
+LLM: ['gemma2-9b']
+Task: title_generation
+*******************
+creation_date_category
+utility vs performence
+Average Spearman rank correlation: 0.8666666666666666
+Average Kendall's Tau: 0.777777777777778
+Average Spearman rank correlation: 0.7999999999999999
+exposure vs performence
+Average Spearman rank correlation: 0.7333333333333333
+Average Kendall's Tau: 0.5555555555555557
+Average Spearman rank correlation: 0.7999999999999999
+consumption vs performence
+Average Spearman rank correlation: -0.39999999999999997
+Average Kendall's Tau: -0.3333333333333334
+Average Spearman rank correlation: -0.5333333333333333
+c-to-u vs performence
+Average Spearman rank correlation: -0.6666666666666666
+Average Kendall's Tau: -0.5555555555555557
+Average Spearman rank correlation: -0.7999999999999999
+c-to-e vs performence
+Average Spearman rank correlation: -0.6666666666666666
+Average Kendall's Tau: -0.5555555555555557
+Average Spearman rank correlation: -0.7999999999999999
+utility vs consumption
+Average Spearman rank correlation: -0.26666666666666666
+Average Kendall's Tau: -0.11111111111111115
+utility vs exposure
+Average Spearman rank correlation: 0.8666666666666666
+Average Kendall's Tau: 0.777777777777778
+exposure vs consumption
+Average Spearman rank correlation: -0.19999999999999998
+Average Kendall's Tau: -0.11111111111111115
+*****************
+years_category
+utility vs performence
+Average Spearman rank correlation: 0.6666666666666666
+Average Kendall's Tau: 0.4444444444444446
+Average Spearman rank correlation: 0.5333333333333333
+exposure vs performence
+Average Spearman rank correlation: 0.7333333333333334
+Average Kendall's Tau: 0.5555555555555557
+Average Spearman rank correlation: 0.39999999999999997
+consumption vs performence
+Average Spearman rank correlation: 0.7999999999999999
+Average Kendall's Tau: 0.6666666666666669
+Average Spearman rank correlation: 0.39999999999999997
+c-to-u vs performence
+Average Spearman rank correlation: 0.13333333333333333
+Average Kendall's Tau: 0.11111111111111115
+Average Spearman rank correlation: -0.2666666666666668
+c-to-e vs performence
+Average Spearman rank correlation: 0.06666666666666667
+Average Kendall's Tau: 0.0
+Average Spearman rank correlation: 0.26666666666666666
+utility vs consumption
+Average Spearman rank correlation: 0.6666666666666666
+Average Kendall's Tau: 0.5555555555555557
+utility vs exposure
+Average Spearman rank correlation: 0.9333333333333332
+Average Kendall's Tau: 0.888888888888889
+exposure vs consumption
+Average Spearman rank correlation: 0.7999999999999999
+Average Kendall's Tau: 0.6666666666666669
+*****************
+first_letter_category
+utility vs performence
+Average Spearman rank correlation: -0.13333333333333333
+Average Kendall's Tau: -0.11111111111111115
+Average Spearman rank correlation: 0.6
+exposure vs performence
+Average Spearman rank correlation: 0.0
+Average Kendall's Tau: 0.11111111111111115
+Average Spearman rank correlation: 0.26666666666666666
+consumption vs performence
+Average Spearman rank correlation: 0.038742588672279345
+Average Kendall's Tau: 0.12171612389003694
+Average Spearman rank correlation: -0.0036061702259639894
+c-to-u vs performence
+Average Spearman rank correlation: 0.3333333333333333
+Average Kendall's Tau: 0.2222222222222223
+Average Spearman rank correlation: -0.5333333333333333
+c-to-e vs performence
+Average Spearman rank correlation: 0.19999999999999998
+Average Kendall's Tau: 0.11111111111111115
+Average Spearman rank correlation: -0.4666666666666666
+utility vs consumption
+Average Spearman rank correlation: 0.44234875889824327
+Average Kendall's Tau: 0.3439383461122592
+utility vs exposure
+Average Spearman rank correlation: 0.6666666666666666
+Average Kendall's Tau: 0.5555555555555557
+exposure vs consumption
+Average Spearman rank correlation: 0.8955160284743786
+Average Kendall's Tau: 0.8201978288934811
+*****************
+relative_pageviews_category
+utility vs performence
+Average Spearman rank correlation: 0.8666666666666666
+Average Kendall's Tau: 0.777777777777778
+Average Spearman rank correlation: -0.8666666666666666
+exposure vs performence
+Average Spearman rank correlation: 0.8666666666666666
+Average Kendall's Tau: 0.777777777777778
+Average Spearman rank correlation: -0.8666666666666666
+consumption vs performence
+Average Spearman rank correlation: 0.8666666666666666
+Average Kendall's Tau: 0.777777777777778
+Average Spearman rank correlation: -0.8666666666666666
+c-to-u vs performence
+Average Spearman rank correlation: 0.5333333333333333
+Average Kendall's Tau: 0.4444444444444446
+Average Spearman rank correlation: -0.6666666666666666
+c-to-e vs performence
+Average Spearman rank correlation: 0.39999999999999997
+Average Kendall's Tau: 0.3333333333333334
+Average Spearman rank correlation: -0.4666666666666666
+utility vs consumption
+Average Spearman rank correlation: 1.0
+Average Kendall's Tau: 1.0
+utility vs exposure
+Average Spearman rank correlation: 1.0
+Average Kendall's Tau: 1.0
+exposure vs consumption
+Average Spearman rank correlation: 1.0
+Average Kendall's Tau: 1.0

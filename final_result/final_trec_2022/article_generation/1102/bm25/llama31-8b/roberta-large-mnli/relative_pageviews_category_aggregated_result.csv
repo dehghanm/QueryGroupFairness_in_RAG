@@ -1,0 +1,5 @@
+,AVG Utility,AVG Consumption,Prob Exposure,Prob Utility,Prob Consumption,consumption_to_utility_ratio,C-to-U Ratio,C-to-E Ratio
+Medium-Low,0.074,0.174,0.138,0.115,0.096,2.36,0.835,0.696
+Low,0.529,1.5,0.79,0.828,0.831,2.837,1.003,1.051
+High,0.017,0.021,0.02,0.026,0.012,1.251,0.443,0.573
+Medium-High,0.02,0.111,0.051,0.031,0.062,5.643,1.996,1.198

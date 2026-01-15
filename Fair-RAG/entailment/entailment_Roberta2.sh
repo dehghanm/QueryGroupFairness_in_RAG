@@ -1,0 +1,22 @@
+#!/bin/bash
+
+datasets=("final_trec_2022")
+llms=("gemma2-9b")
+retrievers=("bm25" "contriver" "splade")
+query_topics=("1102")
+for dataset in "${datasets[@]}"; do
+  for llm in "${llms[@]}"; do
+    for query_topic in "${query_topics[@]}"; do
+      for retriever in "${retrievers[@]}"; do
+        echo "Running with dataset=$dataset, llm=$llm, retriever=$retriever"
+        python entailment_Roberta.py \
+          --rag_model_name "$llm" \
+          --entailment_model_name roberta-large-mnli \
+          --dataset "$dataset" \
+          --retriever "$retriever" \
+          --lamp_num 5 \
+          --query_topic "$query_topic"
+      done
+    done
+  done
+done

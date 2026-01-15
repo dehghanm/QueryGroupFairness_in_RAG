@@ -1,0 +1,5 @@
+,AVG Utility,AVG Consumption,Prob Exposure,Prob Utility,Prob Consumption,consumption_to_utility_ratio,C-to-U Ratio,C-to-E Ratio
+21st century,0.015,0.053,0.047,0.063,0.034,3.477,0.533,0.722
+20th century,0.055,0.237,0.182,0.228,0.15,4.279,0.656,0.823
+Unknown,0.146,1.176,0.63,0.602,0.744,8.054,1.236,1.181
+Pre-1900s,0.026,0.114,0.141,0.106,0.072,4.432,0.68,0.512
