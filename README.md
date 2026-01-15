@@ -35,3 +35,27 @@ Each script includes important arguments that can be configured before running.
 
 ```bash
 python bm25.py --arg1 value --arg2 value
+
+
+## Fair-RAG Directory
+
+All code in the `Fair-RAG` directory is adapted from the following GitHub repository: https://github.com/kimdanny/fair-rag  
+We have **modified the scripts** to suit our experiments.
+
+---
+
+## Running Language Models
+
+To run **vanilla** and **augmented** language models and save inference results:
+
+```bash
+python utility_labels/inference.py --model_name llama31-8b --lamp_num 5
+
+
+```
+python utility_labels/lamp_eval.py --model_name llama31-8b --lamp_num 5
+
+There are more parameters, please take a look at the main part of the script to get familiar with all the parameters. 
+
+
+
