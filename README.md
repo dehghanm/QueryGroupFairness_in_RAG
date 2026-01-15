@@ -63,7 +63,7 @@ If you use this code or datasets in your research, please cite our ECIR 2026 pap
 ```
 @inproceedings{dehghan2026group,
   title={Who Benefits from RAG? The Role of Exposure, Utility and Attribution Bias},
-  author={Dehghan, [Your First Name] and [Other Authors]},
+  author={Dehghan, Mahdi and  McDonald, Graham},
   booktitle={Proceedings of the European Conference on Information Retrieval (ECIR)},
   year={2026}
 }
