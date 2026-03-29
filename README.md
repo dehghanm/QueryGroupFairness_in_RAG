@@ -1,6 +1,6 @@
 # Query Group Fairness in RAG
 
-This repository contains the code and datasets for our experiments on **investigating the problem of Group Query Fairness in RAG (Retrieval-Augmented Generation) settings**. 
+This repository contains the code and datasets for our experiments on **investigating the problem of Group Query Fairness in RAG (Retrieval-Augmented Generation) settings**. This work is associated with our accepted paper at **ECIR 2026** titled **“Who Benefits from RAG? The Role of Exposure, Utility and Attribution Bias.”**
 
 Group query fairness examines whether a RAG system is systematically more accurate for queries associated with particular groups within a fairness category, or whether the inclusion of the retriever component in RAG leads to greater accuracy improvements for certain query groups.
 
